@@ -1,4 +1,4 @@
-# Projeto: Construindo um Pipeline para coletar a evolução diária do Covid no Brasil 
+# Projeto: Construindo um Pipeline para coletar os dados do Covid no Brasil 
 
 ## Motivação do Projeto
  
@@ -13,5 +13,21 @@ Este projeto será criado em três passos:
   * Realizando a ingestão de dados em banco postgree;
 
 Ambientes utilizados: Azure Databricks e Database. 
+
+## 1 Etapa:
+
+A coleta de dados foi realizada por meio do Python, utilizando a biblioteca requests foi possível consumir os dados direto da url da api. 
+
+![image](https://user-images.githubusercontent.com/89877903/177430387-20beb8cb-e35a-4fa3-aae1-12793e6299ee.png)
+
+
+## 2 Etapa: 
+
+Após a etapa de extração, foi realizado alguns tratamento de dados utilizando Spark, alguns passos estão contidos abaixo.
+
+![image](https://user-images.githubusercontent.com/89877903/177430501-7f12df9e-df60-4622-b7ed-7f479d2dd9ca.png)
+
+
+
 
 
