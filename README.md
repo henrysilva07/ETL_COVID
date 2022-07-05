@@ -1,4 +1,4 @@
-# Projeto: Pipeline de Dados: consumindo dados de uma Api
+# Projeto: Pipeline de Dados - consumindo dados de uma Api
 
 ## Motivação do Projeto
  
