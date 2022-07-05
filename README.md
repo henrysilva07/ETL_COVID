@@ -1,4 +1,4 @@
-# Projeto: Construindo um Pipeline para coletar os dados do Covid no Brasil 
+# Projeto: Pipeline de Dados: consumindo dados de uma Api
 
 ## Motivação do Projeto
  
