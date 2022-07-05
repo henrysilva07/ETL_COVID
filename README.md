@@ -27,7 +27,21 @@ Após a etapa de extração, foi realizado alguns tratamento de dados utilizando
 
 ![image](https://user-images.githubusercontent.com/89877903/177430501-7f12df9e-df60-4622-b7ed-7f479d2dd9ca.png)
 
+### 3 Passo:
 
+Com os dados no formato desejado, foi realizado o insert nos dados, o ambiente utilizado foi postgee hospedado dentro da azure.
+
+![image](https://user-images.githubusercontent.com/89877903/177430654-099b7326-f831-4a3b-9003-ee3847a7098d.png)
+
+
+### Resultado: 
+
+Por fim, realizei uma consulta para validar se os dados foram inseridos corretamente:
+
+![image](https://user-images.githubusercontent.com/89877903/177430791-9191d61b-6483-46aa-b698-86e5eeb7f8fc.png)
+
+
+Pipeline finalizado, basta agendar para que seja executado todos os dias , assim conseguiremos realizar esse acompanhamento com a granularidade de um dia. 
 
 
 
